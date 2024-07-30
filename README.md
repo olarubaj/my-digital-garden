@@ -1,4 +1,4 @@
-# 🌷 Flowershow 🌷
+# 🌷 Flowershow
 
 > Publish your Obsidian notes, beautifully. For free, no coding.
 
